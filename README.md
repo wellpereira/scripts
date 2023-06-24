@@ -10,3 +10,6 @@
 | 71.78% | Branches | 2538/3536 |
 | 83.49% | Functions | 3211/3846 |
 | 85.96% | Lines | 9387/10920 |
+
+./instagram-script
+Script para verificar pessoas que você segue e não te seguem de volta no instagram via console do navegador.
